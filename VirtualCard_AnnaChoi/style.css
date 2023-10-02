@@ -1,0 +1,21 @@
+html, body {
+  height: 100vh;
+  font-family: 'Roboto', sans-serif;
+  background-image: url('images/Honeycomb.svg');
+  background-repeat: no-repeat;
+  background-size: cover; /* this will cover the entire viewport */
+  background-position: center center; /* this will center the image */
+}
+
+canvas {
+  
+  display: block;
+}
+
+h2 {
+  color: #682f00; /* Blue color for headings. */
+}
+
+ul {
+  color: #682f00; /* Gray color for paragraphs. */
+}
